@@ -21,3 +21,9 @@ go run main.go
 ・docker  
 ・tesseract  
 ・gosseract
+
+https://github.com/Nyakira22/ocr/assets/162646793/b86caceb-a52f-407d-a877-75ff4153d9eb
+
+
+https://github.com/Nyakira22/ocr/assets/162646793/91fa7952-8101-41b1-a321-ecd50af0f004
+
