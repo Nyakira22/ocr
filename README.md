@@ -10,7 +10,7 @@ go run main.go
 ```
     
 #### 使っている技術  
-・go 1.22.3  
+・go  
 ・echo  
 ・react  
 ・typescript  
