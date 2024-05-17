@@ -32,10 +32,16 @@ go run main.go
 
   
 #### 実装動画
-https://github.com/Nyakira22/ocr/assets/162646793/b86caceb-a52f-407d-a877-75ff4153d9eb
-　　
+
+
+https://github.com/Nyakira22/ocr/assets/162646793/70426c84-24f1-4584-bc82-dfdf9be3a77a
+
+
   
 出力されたテキストをchatGPTに食わせるといい感じにしてくれる。  
-内部で解析結果をchatCGPのAPIで整形してから返却する方がより実用的  
-https://github.com/Nyakira22/ocr/assets/162646793/91fa7952-8101-41b1-a321-ecd50af0f004
+内部で解析結果をchatGPTのAPIで整形してから返却する方がより実用的  
+
+
+
+https://github.com/Nyakira22/ocr/assets/162646793/3e56c976-4b43-4484-8042-6d0c37a29b1f
 
