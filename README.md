@@ -46,3 +46,8 @@ https://github.com/Nyakira22/ocr/assets/162646793/70426c84-24f1-4584-bc82-dfdf9b
 
 https://github.com/Nyakira22/ocr/assets/162646793/3e56c976-4b43-4484-8042-6d0c37a29b1f
 
+・ちなみにchatGPT4oで事足りるw  
+
+
+https://github.com/Nyakira22/ocr/assets/162646793/59de3b14-2340-47b3-ba85-89049714c07e
+
