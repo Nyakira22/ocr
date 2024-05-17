@@ -1,5 +1,4 @@
 FROM golang:latest
-LABEL maintainer="Hiromu Ochiai <otiai10@gmail.com>"
 
 RUN apt-get update -qq
 

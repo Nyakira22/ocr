@@ -8,11 +8,18 @@ import (
 	"strings"
 
 	"github.com/labstack/echo"
+	"github.com/labstack/echo/middleware"
 	"github.com/otiai10/gosseract/v2"
 )
 
 func main() {
 	e := echo.New()
+	e.Use(middleware.CORSWithConfig(middleware.CORSConfig{
+		AllowOrigins:     []string{"http://localhost:3000"},
+		AllowHeaders:     []string{echo.HeaderOrigin, echo.HeaderContentType, echo.HeaderAccept, echo.HeaderAccessControlAllowHeaders, echo.HeaderXCSRFToken},
+		AllowMethods:     []string{"GET", "POST", "PUT", "DELETE"},
+		AllowCredentials: true,
+	}))
 	e.POST("/", analysisMedia)
 	e.POST("/movie", analysisMovie)
 	e.Logger.Fatal(e.Start(":8080"))
